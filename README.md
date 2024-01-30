@@ -26,4 +26,4 @@ As I upload this project to GitHub along with my other older projects, it's impo
 
 ## Sample Output
 ![Sample Image](./Images/RealParagraph.bmp)
-![Sample Text Output](./Images/Sample Output.bmp)
+![Sample Text Output](./Images/SampleOutput.bmp)
