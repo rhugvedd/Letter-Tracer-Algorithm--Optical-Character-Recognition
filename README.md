@@ -25,5 +25,6 @@ As I upload this project to GitHub along with my other older projects, it's impo
 5. View the "SegmentedImage.bmp" to see the line and character segmentation.
 
 ## Sample Output
-![Sample Image](./Images/RealParagraph.bmp)
-![Sample Text Output](./Images/SampleOutput.bmp)
+![Sample Image](./Images/RealParagraph.bmp "Sample Input Image: Example of a paragraph image used for Optical Character Recognition (OCR) processing.")
+![Segmented Output](./Images/SampleSegmentedImage.bmp "Sample Segmented Image")
+![Sample Text Output](./Images/SampleOutput.bmp "Sample Output: Image converted to text.")
