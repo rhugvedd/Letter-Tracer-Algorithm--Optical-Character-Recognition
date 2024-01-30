@@ -29,7 +29,7 @@ As I upload this project to GitHub along with my other older projects, it's impo
 ### Sample Input Image: Example of a paragraph image used for Optical Character Recognition (OCR) processing.
 ![Sample Image](./Images/RealParagraph.bmp)
 
-### Sample Segmented Image
+### Sample Output: Segmented Image
 ![Segmented Output](./Images/SampleSegmentedImage.bmp)
 
 ### Sample Output: Image converted to text.
