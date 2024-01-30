@@ -1,0 +1,28 @@
+Letter, Type
+
+a,Closed Loop,Left
+b,Closed Loop,Top Right
+c,Right
+d,Closed Loop,Top Left
+e,Closed Loop,Right
+f,Right,Bottom Right,Bottom Left,Top Left
+g,Closed Loop,Bottom Right,Closed Loop
+h,Top Right,Bottom
+i,Dot,Vertical Line
+j,Dot,Top Left
+k,Top Right,Right,Bottom
+l,Vertical Line
+m,Bottom,Bottom
+n,Bottom
+o,Closed Loop
+p,Closed Loop,Bottom Right
+q,Closed Loop,Bottom Left
+r,Bottom Right
+s,Right,Left
+t,Top Right,Right,Bottom Left,Top Left
+u,Top U
+v,Top
+w,Top,Top
+x,Right,Bottom,Left,Top
+y,Vertical Line,Top
+z,Left,Right

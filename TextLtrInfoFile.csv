@@ -1,0 +1,180 @@
+Letter, Type
+
+a,Bottom Left,Right,Horizontal Line
+b,Bottom Left
+c,Bottom,Left
+d,Top Right,Right,Bottom Left,Top Left
+e,Closed Loop,Top Left,Dot
+f
+g,Dot,Bottom Left,Top Right
+h,Right,Top Right,Left
+i,Left,Top Right
+j,Closed Loop,Right,Bottom Left
+k,Top Right,Left,Bottom Left,Top Left
+l,Bottom
+m,Bottom,Left
+n
+o
+p
+q,Bottom Left,Dot
+r,Top Right,Left
+s,Bottom
+t,Right,Left,Dot
+u,Right
+v,Right,Right
+w,Bottom
+x,Closed Loop,Bottom
+y,Left,Left
+z,Right,Left
+{
+|,Top Right,Left,Bottom Left,Top Left
+},Top Right,Bottom
+~,Bottom
+,Closed Loop
+,Top Right,Top
+,Right,Closed Loop,Right,Bottom,Bottom Right
+,Bottom
+,Closed Loop,Right,Top Left,Right Slant Line
+,Bottom Left,Top
+,Top
+,Top Left,Bottom Right
+
+,Bottom Left,Top Right
+
+,Closed Loop,Top Right
+,Top Right,Bottom Left
+,Top Right,Right,Bottom Left,Top Left
+,Top Right,Left,Bottom Left,Top Left
+,Bottom,Right
+,Closed Loop,Right
+,Left,Top
+,Top,Right,Dot
+,Right,Bottom Left
+,Closed Loop,Right
+
+,Left,Dot
+,Right,Right,Right,Right
+,Top Right,Bottom,Right
+,Top,Bottom Right
+,Right
+,Closed Loop,Top Right
+,Left,Top,Dot
+,Bottom,Right
+,Right,Right
+,Bottom,Top Right
+,Right,Left
+ ,Right,Left
+¡
+¢,Right,Bottom Left
+£,Top Right,Bottom
+¤,Closed Loop,Right
+¥,Right,Bottom Left
+¦,Top,Left
+§
+¨,Bottom Right,Left
+©,Closed Loop,Right
+ª,Bottom Left
+«,Top Right,Right,Bottom Left,Top Left
+¬,Top,Right
+­,Right,Left
+®,Closed Loop,Top Right
+¯,Top Right,Right
+°,Top
+±,Left,Right,Dot
+²,Bottom,Top
+³,Top Right,Left
+´,Bottom
+µ,Closed Loop,Right
+¶,Top U
+·,Top Right,Top Left
+¸,Top Right,Right,Bottom Left,Top Left
+¹,Right
+º,Bottom,Left,Dot
+»,Top U
+¼,Top Right,Top Left,Dot
+½
+¾,Bottom Left,Top Right
+¿,Top,Top Right
+À,Top Right,Right
+Á,Right,Top
+Â,Closed Loop,Bottom Right
+Ã
+Ä,Vertical Line,Top,Bottom
+Å,Bottom,Bottom
+Æ
+Ç
+È,Top Left,Dot
+É,Top Right,Left
+Ê,Right,Left,Dot
+Ë,Right,Left
+Ì
+Í,Bottom,Top Right
+Î,Closed Loop,Right
+Ï,Bottom Left
+Ð,Top Right,Top,Dot
+Ñ,Closed Loop,Bottom Left
+Ò,Top U
+Ó
+Ô,Closed Loop,Bottom Right
+Õ
+Ö,Right,Dot,Right
+×,Bottom,Bottom
+Ø,Right,Right,Dot
+Ù,Right
+Ú,Top Right,Bottom Left
+Û,Right,Left
+Ü
+Ý
+Þ,Bottom
+ß,Right,Left
+à,Top Right,Left,Right
+á,Left,Top
+â,Top,Bottom Right
+ã,Left,Top Right,Vertical Line
+ä,Right,Bottom
+å,Top Right
+æ,Top Right,Top,Dot
+ç,Right,Left
+è,Right,Left,Dot
+é
+ê,Right,Left,Dot
+ë,Bottom,Bottom
+ì
+í,Right
+î,Closed Loop
+ï,Top Right,Right,Bottom Left,Top Left
+ð,Right
+ñ,Bottom
+ò,Closed Loop,Right
+ó,Right,Top
+ô,Top,Top
+õ,Bottom,Bottom
+ö,Right,Left
+÷,Top Right,Bottom Right,Bottom
+ø,Closed Loop,Right
+ù,Left,Top
+ú
+û,Closed Loop
+ü,Bottom
+ý,Top Right,Top
+þ,Left,Top Right
+ÿ,Top Right,Left,Bottom Left,Top Left
+Ā,Bottom Right,Left
+ā,Left,Right,Vertical Line
+Ă,Top,Right
+ă,Bottom Right,Bottom,Dot
+Ą,Closed Loop
+ą,Bottom Left,Top Right
+Ć,Closed Loop,Right
+ć,Top Right,Right,Bottom Left,Top Left
+Ĉ,Closed Loop,Top Right
+ĉ
+Ċ,Right,Right
+ċ,Closed Loop,Right
+Č,Right,Dot,Horizontal Line
+č,Top Right,Bottom
+Ď,Right,Left
+ď,Top
+Đ,Closed Loop,Right
+đ,Right,Bottom Right
+Ē,Bottom
