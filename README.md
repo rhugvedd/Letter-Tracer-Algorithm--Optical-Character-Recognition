@@ -33,7 +33,8 @@ As I upload this project to GitHub along with my other older projects, it's impo
 ![Segmented Output](./Images/SampleSegmentedImageLongStory.bmp)
 
 ### Sample Output 1: Image converted to text.
-![Sample Text Output](./Images/SampleOutputTextLongStory.bmp.bmp)
+![Sample Text Output](./Images/SampleOutputTextLongStory.bmp)
+
 ln the small yillage of Eldoria. nestled between roiling hiiis and dense forests. there lived a #`urious voung girl named
 Eiara. Elara possessed an insatiabiethirst for knowiedge and a hear full of dreamsthat reached beuond the boundaries
 of her quaint surroundings. The viilage. though charming, was known for its quiet routines and simple wav of life.
@@ -76,3 +77,4 @@ spectrm from il ts source, a quaz pni sm
 li s used li nstead of a gl ass pni sm. For the
 same reason ultravliolet bulbs have an
 envelope made of quaz i.nstead of glass.
+===========================================================================================================================
