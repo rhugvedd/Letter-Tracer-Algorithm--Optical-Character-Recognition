@@ -27,14 +27,34 @@ As I upload this project to GitHub along with my other older projects, it's impo
 ## Sample Output
 
 ### Sample Input Image 1: Example of a paragraph image used for Optical Character Recognition (OCR) processing.
-![Sample Image](./Images/LongStory.bmp)
+![Sample Image](./Images/RealParagraph.bmp)
 
 ### Sample Output 1: Segmented Image
-![Segmented Output](./Images/SampleSegmentedImageLongStory.bmp)
+![Segmented Output](./Images/SampleSegmentedImage.bmp)
 
 ### Sample Output 1: Image converted to text.
+![Sample Text Output](./Images/SampleOutput.bmp)
+
+### Text Output
+ultraviiolet radliatlions #`an pass through
+quartz, but they a#`e absorbed by elnss.
+Therefore, to obtailn the ultravi.olet
+spectrm from il ts source, a quaz pni sm
+li s used li nstead of a gl ass pni sm. For the
+same reason ultravliolet bulbs have an
+envelope made of quaz i.nstead of glass.
+===========================================================================================================================
+
+### Sample Input Image 2: Example of a paragraph image used for Optical Character Recognition (OCR) processing.
+![Sample Image](./Images/LongStory.bmp)
+
+### Sample Output 2: Segmented Image
+![Segmented Output](./Images/SampleSegmentedImageLongStory.bmp)
+
+### Sample Output 2: Image converted to text.
 ![Sample Text Output](./Images/SampleOutputTextLongStory.bmp)
 
+### Text Output
 ln the small yillage of Eldoria. nestled between roiling hiiis and dense forests. there lived a #`urious voung girl named
 Eiara. Elara possessed an insatiabiethirst for knowiedge and a hear full of dreamsthat reached beuond the boundaries
 of her quaint surroundings. The viilage. though charming, was known for its quiet routines and simple wav of life.
@@ -60,21 +80,4 @@ a yi brant communitn as stories of Eiarals quest inspired #`reativit. exploratio
 wonders that existed within their own lives. And so. the tale of Elara. the curious girl from Eldoria. be#`ame a legend. a
 reminder that sometimes. the greatest adventures are not found in distant lands but in the magic that resides within
 the hear and spirit of those who dare to dream.
-===========================================================================================================================
-
-### Sample Input Image 2: Example of a paragraph image used for Optical Character Recognition (OCR) processing.
-![Sample Image](./Images/RealParagraph.bmp)
-
-### Sample Output 2: Segmented Image
-![Segmented Output](./Images/SampleSegmentedImage.bmp)
-
-### Sample Output 2: Image converted to text.
-![Sample Text Output](./Images/SampleOutput.bmp)
-ultraviiolet radliatlions #`an pass through
-quartz, but they a#`e absorbed by elnss.
-Therefore, to obtailn the ultravi.olet
-spectrm from il ts source, a quaz pni sm
-li s used li nstead of a gl ass pni sm. For the
-same reason ultravliolet bulbs have an
-envelope made of quaz i.nstead of glass.
 ===========================================================================================================================
