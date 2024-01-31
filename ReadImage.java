@@ -37,11 +37,11 @@ public class ReadImage implements ExtractCharConsts
         long PrevTime = System.currentTimeMillis();
 
         // String ImageName = "Story.bmp";
-        // String ImageName = "LongStory.bmp";
+        String ImageName = "LongStory.bmp";
         // String ImageName = "LongStory1.bmp";
         // String ImageName = "Test.bmp";
         // String ImageName = "NewImage.bmp";
-        String ImageName = "RealParagraph.bmp";
+        // String ImageName = "RealParagraph.bmp";
         
         String ImagePath = "./Images/" + ImageName;
 
