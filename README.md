@@ -36,13 +36,13 @@ As I upload this project to GitHub along with my other older projects, it's impo
 ![Sample Text Output](./Images/SampleOutput.bmp)
 
 ### Text Output
-ultraviiolet radliatlions #`an pass through
-quartz, but they a#`e absorbed by elnss.
-Therefore, to obtailn the ultravi.olet
-spectrm from il ts source, a quaz pni sm
-li s used li nstead of a gl ass pni sm. For the
-same reason ultravliolet bulbs have an
-envelope made of quaz i.nstead of glass.
+`ultraviiolet radliatlions #\`an pass through`
+`quartz, but they a#\`e absorbed by elnss.`
+`Therefore, to obtailn the ultravi.olet`
+`spectrm from il ts source, a quaz pni sm`
+`li s used li nstead of a gl ass pni sm. For the`
+`same reason ultravliolet bulbs have an`
+`envelope made of quaz i.nstead of glass.`
 ===========================================================================================================================
 
 ### Sample Input Image 2: Example of a paragraph image used for Optical Character Recognition (OCR) processing.
@@ -55,29 +55,29 @@ envelope made of quaz i.nstead of glass.
 ![Sample Text Output](./Images/SampleOutputTextLongStory.bmp)
 
 ### Text Output
-ln the small yillage of Eldoria. nestled between roiling hiiis and dense forests. there lived a #`urious voung girl named
-Eiara. Elara possessed an insatiabiethirst for knowiedge and a hear full of dreamsthat reached beuond the boundaries
-of her quaint surroundings. The viilage. though charming, was known for its quiet routines and simple wav of life.
-However. Elarals spirit yearned for something more. one dan. as the golden ravs of the sun painted the sk in hues of
-orange and pink. Elara stumbied upon an ancient. dustn tome in the #`orner of the village librar. The book. bound in
-weathered leather. emanated a mnsterious energ that #`aptivated her imagination. lntrigued. she began to leaf
-through its pages. discoyering tales of forgoten iands, myhical #`reatures. and magical arifacs. ln the midst of her
-exploration. Elara came across a faded map that hinted at the existence of a hidden realm beuond the enchanted forest
-bo rdering Eldoria. The map promised adyenture. secrets. and the answers to questions that had long eluded the
-vi i lagers. oriyen by an irresistible urge. Eiara embarked on a quest to un#`oyer the mnsteries of this unchared land.
-Eq u i pped with nothing but her insatiabie curiositu and a small sat#`hel of proyisions, Elara yentured into the depths of
-the enchanted forest. As she navigated through an#`ient trees and sparkling streams. the forest seemed to come alive
-with whispers of magicai creatures watching her eyeru moye. yet. Elara pressed on. fueled bu a sense of purpose and
-a desire to unravei the secrets hidden within the hear of the woods. oaus turned into nights. and Elara encountered
-chaiienges that tested her courage and determination. she fa#`ed treacherous terrain. encountered mnstical beings,
-and de#`iphered #`ruptic riddles that guarded the path to the elusive realm. Along the way, she made unexpected allies
-a wi se old owl. a mis#`hieyous sprite. and a gentle unicorn-who guided her through the enchanted landscape. As Elara
-delved deeper into the magi#`ai reaim. she discovered that it held not onln the answer she sought but also a profound
-connection to the essence ofthe viiiage itseif. The en#`hanted forest was a bridge beteen two worlds. each infuencing
-the other in waus that were beyond imagination. word of Elarals diournev spread back to Eldoria. and the villagers,
-inspired bn her brayer. began to rediscover the magic that surrounded them. The onceiquiet village transformed into
-a yi brant communitn as stories of Eiarals quest inspired #`reativit. exploration, and a renewed appreciation for the
-wonders that existed within their own lives. And so. the tale of Elara. the curious girl from Eldoria. be#`ame a legend. a
-reminder that sometimes. the greatest adventures are not found in distant lands but in the magic that resides within
-the hear and spirit of those who dare to dream.
+`ln the small yillage of Eldoria. nestled between roiling hiiis and dense forests. there lived a #\`urious voung girl named`
+`Eiara. Elara possessed an insatiabiethirst for knowiedge and a hear full of dreamsthat reached beuond the boundaries`
+`of her quaint surroundings. The viilage. though charming, was known for its quiet routines and simple wav of life.`
+`However. Elarals spirit yearned for something more. one dan. as the golden ravs of the sun painted the sk in hues of`
+`orange and pink. Elara stumbied upon an ancient. dustn tome in the #\`orner of the village librar. The book. bound in`
+`weathered leather. emanated a mnsterious energ that #\`aptivated her imagination. lntrigued. she began to leaf`
+`through its pages. discoyering tales of forgoten iands, myhical #\`reatures. and magical arifacs. ln the midst of her`
+`exploration. Elara came across a faded map that hinted at the existence of a hidden realm beuond the enchanted forest`
+`bo rdering Eldoria. The map promised adyenture. secrets. and the answers to questions that had long eluded the`
+`vi i lagers. oriyen by an irresistible urge. Eiara embarked on a quest to un#\`oyer the mnsteries of this unchared land.`
+`Eq u i pped with nothing but her insatiabie curiositu and a small sat#\`hel of proyisions, Elara yentured into the depths of`
+`the enchanted forest. As she navigated through an#\`ient trees and sparkling streams. the forest seemed to come alive`
+`with whispers of magicai creatures watching her eyeru moye. yet. Elara pressed on. fueled bu a sense of purpose and`
+`a desire to unravei the secrets hidden within the hear of the woods. oaus turned into nights. and Elara encountered`
+`chaiienges that tested her courage and determination. she fa#\`ed treacherous terrain. encountered mnstical beings,`
+`and de#\`iphered #\`ruptic riddles that guarded the path to the elusive realm. Along the way, she made unexpected allies`
+`a wi se old owl. a mis#\`hieyous sprite. and a gentle unicorn-who guided her through the enchanted landscape. As Elara`
+`delved deeper into the magi#\`ai reaim. she discovered that it held not onln the answer she sought but also a profound`
+`connection to the essence ofthe viiiage itseif. The en#\`hanted forest was a bridge beteen two worlds. each infuencing`
+`the other in waus that were beyond imagination. word of Elarals diournev spread back to Eldoria. and the villagers,`
+`inspired bn her brayer. began to rediscover the magic that surrounded them. The onceiquiet village transformed into`
+`a yi brant communitn as stories of Eiarals quest inspired #\`reativit. exploration, and a renewed appreciation for the`
+`wonders that existed within their own lives. And so. the tale of Elara. the curious girl from Eldoria. be#\`ame a legend. a`
+`reminder that sometimes. the greatest adventures are not found in distant lands but in the magic that resides within`
+`the hear and spirit of those who dare to dream.`
 ===========================================================================================================================
