@@ -24,6 +24,8 @@ As I upload this project to GitHub along with my other older projects, it's impo
 4. View the output text file "ImageParagraph.txt" containing the transcribed characters.
 5. View the "SegmentedImage.bmp" to see the line and character segmentation.
 
+![Project Folder Image](./Images/ProjectFolder.png)
+
 ## Sample Output
 
 ### Sample Input Image 1: Example of a paragraph image used for Optical Character Recognition (OCR) processing.
